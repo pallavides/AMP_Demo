@@ -1,0 +1,2 @@
+drivers/rpmsg/rpmsg_freertos_statistic.ko
+drivers/rpmsg/rpmsg_freertos_statistic.o

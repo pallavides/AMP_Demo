@@ -1,0 +1,37 @@
+/home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/lib/libfdt/fdt_empty_tree.o: \
+ fdt_empty_tree.c \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/libfdt_env.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/compiler.h \
+ /opt/old/petalinux-v2013.10-final/tools/linux-i386/arm-xilinx-linux-gnueabi/bin/../lib/gcc/arm-xilinx-linux-gnueabi/4.7.3/include/stddef.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/string.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/posix_types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/stddef.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/posix_types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/types.h \
+ /opt/old/petalinux-v2013.10-final/tools/linux-i386/arm-xilinx-linux-gnueabi/bin/../lib/gcc/arm-xilinx-linux-gnueabi/4.7.3/include/stdbool.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/string.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_cmd_defaults.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_defaults.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-arm-auto.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/../board/xilinx/zynq/xparameters.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-auto-board.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_cmd_default.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-user-config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_fallbacks.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_uncmd_spl.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/linux_string.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/byteorder.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/byteorder/little_endian.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/compiler.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/compiler-gcc.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/compiler-gcc4.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/byteorder/swab.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/byteorder/generic.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/fdt.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/libfdt.h \
+ libfdt_internal.h

@@ -1,0 +1,5 @@
+/home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/arch/arm/lib/relocate.o: \
+ relocate.S \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/linkage.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/linkage.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/config.h

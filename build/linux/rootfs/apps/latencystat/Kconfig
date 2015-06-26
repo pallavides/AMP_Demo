@@ -1,0 +1,14 @@
+###############################################################################
+# Please modify this file if you want to configure your own application.
+# You can uncommon and/or change the following Kconfig elements.
+###############################################################################
+
+
+if APPS_LATENCYSTAT
+	comment "No additional options. Demo for Linux-FreeRTOS AMP"
+
+# 	config ADDIN_USER_LATENCYSTAT_OPTION0
+#	bool "option0"
+#	help
+#	  Help text
+endif

@@ -1,0 +1,10 @@
+/home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/lib/crc7.o: \
+ crc7.c \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/posix_types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/stddef.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/posix_types.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/types.h \
+ /opt/old/petalinux-v2013.10-final/tools/linux-i386/arm-xilinx-linux-gnueabi/bin/../lib/gcc/arm-xilinx-linux-gnueabi/4.7.3/include/stdbool.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/linux/crc7.h

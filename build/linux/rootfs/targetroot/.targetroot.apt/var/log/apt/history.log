@@ -1,0 +1,61 @@
+
+Start-Date: 2015-06-19  13:05:24
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files busybox-inetd libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Install: tinylogin:armv7a-vfp-neon (1.4-r9), base-files:armv7a-vfp-neon (3.0.14-r73), modutils-initscripts:armv7a-vfp-neon (1.0-r6), sysvinit-inittab:armv7a-vfp-neon (2.88dsf-r9), init-ifupdown:armv7a-vfp-neon (1.0-r0), netbase:armv7a-vfp-neon (5.0-r0), busybox-inetd:armv7a-vfp-neon (1.20.2-r8), sysvinit-pidof:armv7a-vfp-neon (2.88dsf-r11), base-passwd:armv7a-vfp-neon (3.5.26-r2), mtd-utils:armv7a-vfp-neon (1.5.0-r3), update-rc.d:armv7a-vfp-neon (0.7-r5), libgcc-s1:armv7a-vfp-neon (4.7.3-r1), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0), gdbserver:armv7a-vfp-neon (7.4.50.20120716-cvs-r1), busybox-mdev:armv7a-vfp-neon (1.20.2-r8), libc6:armv7a-vfp-neon (2.17-r1), initscripts:armv7a-vfp-neon (1.0-r140), busybox-udhcpc:armv7a-vfp-neon (1.20.2-r8), sysvinit:armv7a-vfp-neon (2.88dsf-r11), busybox:armv7a-vfp-neon (1.20.2-r8)
+End-Date: 2015-06-19  13:05:44
+
+Start-Date: 2015-06-19  13:05:44
+Commandline: apt-get install run-postinsts --force-yes --allow-unauthenticated
+Install: run-postinsts:armv7a-vfp-neon (1.0-r9)
+End-Date: 2015-06-19  13:05:46
+
+Start-Date: 2015-06-19  14:05:56
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files busybox-inetd libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-19  14:05:59
+
+Start-Date: 2015-06-21  15:47:49
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Install: openssh-sftp-server:armv7a-vfp-neon (6.1p1-r0), libcrypto1.0.0:armv7a-vfp-neon (1.0.1e-r15.0), libz1:armv7a-vfp-neon (1.2.7-r0)
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-21  15:47:55
+
+Start-Date: 2015-06-21  16:45:37
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-21  16:45:40
+
+Start-Date: 2015-06-21  20:34:01
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-21  20:34:03
+
+Start-Date: 2015-06-23  13:22:22
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-23  13:22:25
+
+Start-Date: 2015-06-23  14:02:41
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-23  14:02:43
+
+Start-Date: 2015-06-23  16:50:22
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-23  16:50:24
+
+Start-Date: 2015-06-26  13:05:20
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-26  13:05:23
+
+Start-Date: 2015-06-26  13:14:11
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-26  13:14:14
+
+Start-Date: 2015-06-26  13:26:16
+Commandline: apt-get install busybox gdbserver update-alternatives-cworth init-ifupdown base-files libz1 busybox-inetd openssh-sftp-server libgcc-s1 sysvinit-pidof sysvinit busybox-mdev netbase tinylogin libc6 libcrypto1.0.0 modutils-initscripts update-rc.d mtd-utils sysvinit-inittab initscripts busybox-udhcpc base-passwd --force-yes --allow-unauthenticated
+Upgrade: init-ifupdown:armv7a-vfp-neon (1.0-r0, 1.0-r0), update-alternatives-cworth:armv7a-vfp-neon (0.1.8+svnr649-r13.0, 0.1.8+svnr649-r13.0)
+End-Date: 2015-06-26  13:26:19

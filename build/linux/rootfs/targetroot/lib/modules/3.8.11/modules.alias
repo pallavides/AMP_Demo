@@ -1,0 +1,6 @@
+# Aliases extracted from modules themselves.
+alias of:N*T*Cvirtio,mmio* virtio_mmio
+alias virtio:d00000005v* virtio_balloon
+alias of:N*T*Cxlnx,zynq_remoteproc* zynq_remoteproc
+alias virtio:d00000007v* virtio_rpmsg_bus
+alias net-pf-40 rpmsg_proto

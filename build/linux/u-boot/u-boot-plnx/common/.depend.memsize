@@ -1,0 +1,13 @@
+/home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/common/memsize.o: \
+ memsize.c \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_cmd_defaults.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_defaults.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-arm-auto.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/../board/xilinx/zynq/xparameters.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-auto-board.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_cmd_default.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/configs/petalinux-user-config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/u-boot-plnx/include2/asm/config.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_fallbacks.h \
+ /home/controls/Pallavi/Peta/Projects/AMP_Demo/build/linux/u-boot/src/u-boot-plnx/include/config_uncmd_spl.h

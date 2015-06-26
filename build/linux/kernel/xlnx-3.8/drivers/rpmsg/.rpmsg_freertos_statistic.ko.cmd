@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/rpmsg_freertos_statistic.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T /opt/old/petalinux-v2013.10-final/components/linux-kernel/xlnx-3.8/scripts/module-common.lds --build-id  -o drivers/rpmsg/rpmsg_freertos_statistic.ko drivers/rpmsg/rpmsg_freertos_statistic.o drivers/rpmsg/rpmsg_freertos_statistic.mod.o

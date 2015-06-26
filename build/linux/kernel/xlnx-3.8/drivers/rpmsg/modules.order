@@ -1,0 +1,4 @@
+kernel/drivers/rpmsg/virtio_rpmsg_bus.ko
+kernel/drivers/rpmsg/rpmsg_server_sample.ko
+kernel/drivers/rpmsg/rpmsg_freertos_statistic.ko
+kernel/drivers/rpmsg/rpmsg_omx.ko
